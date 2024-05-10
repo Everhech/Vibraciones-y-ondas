@@ -25,6 +25,13 @@ Con esto en cuenta, en los links siguientes se encuentran las páginas de los mo
 - Movimiento Amortiguado: https://everhech.github.io/Proyecto_Amortiguado/Amortiguado.html <br>
 - Movimiento Forzado: https://everhech.github.io/Proyecto_Forzado/Forzado.html <br>
 
+
+<h2 align="left">Descarga de archivos</h2>
+Para la descarga de los archivos correspondientes, realice lo siguiente: <br>
+1. ![image](https://github.com/Everhech/Vibraciones-y-ondas/assets/81316685/fbe02a11-1980-4a76-9f33-fc6679daae61)
+2.
+
+
 <h2 align="left">Integrantes</h2>
 Integrantes que participaron en la realización del proyecto: <br>
 - Edwin Orlando Restrepo Mosquera.  <br>
