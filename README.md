@@ -28,9 +28,8 @@ Con esto en cuenta, en los links siguientes se encuentran las páginas de los mo
 
 <h2 align="left">Descarga de archivos</h2>
 Para la descarga de los archivos correspondientes, realice lo siguiente: <br>
-1. ![image](https://github.com/Everhech/Vibraciones-y-ondas/assets/81316685/fbe02a11-1980-4a76-9f33-fc6679daae61)
-# aa
-2. ![](https://github.com/Everhech/Vibraciones-y-ondas/assets/81316685/fbe02a11-1980-4a76-9f33-fc6679daae61)
+![image](https://github.com/Everhech/Vibraciones-y-ondas/assets/81316685/fbe02a11-1980-4a76-9f33-fc6679daae61)
+
 
 
 <h2 align="left">Integrantes</h2>
